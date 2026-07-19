@@ -1,5 +1,8 @@
 # Roblox-MacOS-Offsets
+## ARM 64/Apple Silicon Only
 
+
+### Offsets Version 0.730
 ```
   inline uintptr_t Print = REBASE(0x1001A33F0);
   inline uintptr_t Identity = REBASE(0x1002159D4);
