@@ -1,5 +1,5 @@
 # Roblox-MacOS-Offsets
-## ARM 64/Apple Silicon Only
+## ARM64/Apple Silicon Only
 
 
 ### Offsets Version 0.730
