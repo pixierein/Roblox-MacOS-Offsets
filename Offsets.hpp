@@ -1,4 +1,4 @@
-// Generated for Roblox 0.730.0.7300790 (version-f2083d2275244e01).
+// Generated for Roblox 0.731.0.7310942 (version-614a8fd6f9294c9b).
 // ARM64 | APPLE SILICON
 
 namespace Offsets
